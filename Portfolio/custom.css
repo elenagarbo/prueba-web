@@ -1,0 +1,77 @@
+.responsive-img {
+    width:100%;
+    height: 100%;
+    
+}
+
+#logo {
+    width: 40px;
+    margin-top: 10px;
+    margin-left:10px;
+}
+
+.parallax-container {
+    height: 50%;
+  }
+
+  #fotoelena {
+      width: 300px;
+      /* border-radius:600px; */
+      /* text-align: center; */
+      margin-top: 100px;
+      margin-left: 100px;
+      border: 4px solid black;
+  }
+  .nav-wrapper{
+      background-color: black;
+  }
+  .section black {
+      height: 100%;
+  }
+
+  h1 {
+    font-family: 'Abril Fatface', cursive;
+    color: black;
+    text-align: center;
+    font-weight: normal;
+    
+  }
+
+  a {
+    font-family: 'Abril Fatface', cursive;
+    font-weight: normal;
+    
+  }
+
+  p {
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+    font-size: 20px;
+  }
+  span {
+      color:#b33574;
+      font-weight: bold;
+  }
+
+  #gris {
+      background-color: rgba(182,174,172,0.5);
+      margin-top: 100px;
+      width: 40%;
+      height: 10%;
+      padding: 50px;
+    border: black 5px double;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+
+
+h2 {
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+}
+
+span.card-title {
+    color: black;
+}
